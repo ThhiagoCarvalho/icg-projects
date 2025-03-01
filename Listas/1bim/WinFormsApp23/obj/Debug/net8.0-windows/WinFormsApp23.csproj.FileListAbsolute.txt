@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.exe
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.deps.json
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.runtimeconfig.json
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.dll
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\bin\Debug\net8.0-windows\WinFormsApp23.pdb
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.Form1.resources
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.AssemblyInfo.cs
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.dll
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\refint\WinFormsApp23.dll
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.pdb
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\WinFormsApp23.genruntimeconfig.cache
+C:\Users\PC\source\repos\WinFormsApp23\WinFormsApp23\obj\Debug\net8.0-windows\ref\WinFormsApp23.dll
